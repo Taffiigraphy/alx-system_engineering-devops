@@ -1,2 +1,2 @@
 #!/bin/bash
-  echo "$var"
+env_vars=$(printenv)
